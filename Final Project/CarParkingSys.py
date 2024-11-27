@@ -54,6 +54,12 @@ def main():
     if user_select == 1:
         print("1 selected")
         #Call Function Add of Object
-    if
+    if user_select == 2:
+        passvi
+    else:
+        return 0
+
+
+
 
 main()
